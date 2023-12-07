@@ -11,7 +11,8 @@ import SwiftUI
 struct workshopSwUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView(vm: ItemViewModel())
+            //ContentView(vm: ItemViewModel())
+            testView()
         }
     }
 }
